@@ -13,11 +13,9 @@ This chatbot interacts with users, responding to their input based on a predefin
 
 1. Clone this repository to your local machine:
 
-git clone: https://github.com/CharlesFabicki/ChatBot.git
-
 2. Navigate to the project directory:
 
-3. Install the required Python packages using `pip`:
+3. Install the required Python packages using `pip`
 
 
 ## Usage
