@@ -6,6 +6,9 @@ This is a simple chatbot application implemented using Python's `tkinter` librar
 
 This chatbot interacts with users, responding to their input based on a predefined set of prompts and responses. It utilizes the `CountVectorizer` and `MultinomialNB` classes from the `sklearn` library to handle text classification tasks. The graphical user interface is built using the `tkinter` library, providing a user-friendly way to communicate with the chatbot.
 
+## Screenshot
+![Chatbot](https://github.com/CharlesFabicki/ChatBot/assets/103677730/2cbe2c14-bbb5-420d-80d0-5f3d0ac2ac27)
+
 ## Installation
 
 1. Clone this repository to your local machine:
